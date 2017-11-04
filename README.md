@@ -93,4 +93,4 @@ python nameparser library (but purely syntax based)
 - GUI or not?
 - list algorithms and techniques for softare (deterministic, probabalistic, graph, etc...)
 
-Suggestions / contributions welcome!
+Suggestions / contributions welcome! I am not an expert on record linkage, this is simply a list of things I've found when working on a difficult deduplication problem for [Thicket.io](https://thicket.io).
