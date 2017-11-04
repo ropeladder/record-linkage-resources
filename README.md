@@ -49,9 +49,10 @@ Record linkage attempts to identify duplicate records in messy data. It is a tho
 
 ## Commercial software and solutions
 - Data Ladder DataMatch: https://dataladder.com/
-- Reifier: http://nubetech.co/
 - Dedupe: https://dedupe.io/ (freemium frontend for [Dedupe](https://github.com/dedupeio/dedupe) Python library)
+- LinkageWiz: http://www.linkagewiz.net/
 - WinPure Clean and Match: http://www.winpure.com/cleanmatch.html
+- Reifier: http://nubetech.co/
 
 ### For SAS
 - (free but requires SAS) The Link King: http://www.the-link-king.com/
