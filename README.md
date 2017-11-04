@@ -1,5 +1,5 @@
 # record-linkage-resources
-Resources for tackling record linkage / deduplication / data matching / entity matching problems
+Resources for tackling record linkage (also known as deduplication, data matching, entity matching)
 
 _Note: If you're looking for file deduplication software, you're in the wrong place! This page focuses on deduplicating datasets._
 
@@ -69,12 +69,13 @@ python nameparser library (but purely syntax based)
 - parse-full-name: https://github.com/dschnelldavis/parse-full-name (2017, 18)
 
 ## Papers
-- US Census Bureau research
+- US Census Bureau Data Linkage research: https://www.census.gov/srd/csrm/RecordLinkage.html
 - [Learnable Similarity Functions and their Application to Record Linkage and Clustering](http://www.cs.utexas.edu/%7Eml/papers/marlin-dissertation-06.pdf) ([via](https://github.com/dedupeio/dedupe))
 - [https://www.microsoft.com/en-us/research/publication/improving-entity-resolution-with-global-constraints/ ([via](https://dedupe.io/developers/library/en/latest/Bibliography.html))
 - https://arxiv.org/abs/1312.4645 ([via](https://dedupe.io/developers/library/en/latest/Bibliography.html))
 - http://people.cs.umass.edu/~mwick/MikeWeb/Publications_files/wick09entity.pdf ([via](https://dedupe.io/developers/library/en/latest/Bibliography.html))
 - http://homes.cs.washington.edu/~pedrod/papers/mrdm04.pdf ([via](https://dedupe.io/developers/library/en/latest/Bibliography.html))
+- https://www.researchgate.net/publication/318874102_Clink_-_A_Novel_Record_Linkage_Methodology_based_on_Graph_Interactions
 
 ## Organizations
 - US Census Burea Center for Statistical Research and Methodolgy - Record Linkage: https://www.census.gov/srd/csrm/RecordLinkage.html
