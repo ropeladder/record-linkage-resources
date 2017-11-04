@@ -90,4 +90,3 @@ python nameparser library (but purely syntax based)
 - list compatible data sources for software (CSV, SQL DB, JSON, data frame, etc...)
 - GUI or not?
 - list algorithms and techniques for softare (deterministic, probabalistic, graph, etc...)
-- update
