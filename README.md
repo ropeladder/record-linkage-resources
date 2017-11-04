@@ -1,4 +1,4 @@
-# record-linkage-resources
+# Record Linkage Resources
 Resources for tackling record linkage (also known as deduplication, data matching, entity matching)
 
 _Note: If you're looking for file deduplication software, you're in the wrong place! This page focuses on deduplicating datasets._
