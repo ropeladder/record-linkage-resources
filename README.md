@@ -78,7 +78,7 @@ python nameparser library (but purely syntax based)
 - https://www.researchgate.net/publication/318874102_Clink_-_A_Novel_Record_Linkage_Methodology_based_on_Graph_Interactions
 
 ## Organizations
-- US Census Burea Center for Statistical Research and Methodolgy - Record Linkage: https://www.census.gov/srd/csrm/RecordLinkage.html
+- US Census Burea - Center for Statistical Research and Methodolgy - Record Linkage: https://www.census.gov/srd/csrm/RecordLinkage.html
 - Stanford Entity Resolution Framework: http://infolab.stanford.edu/serf/
 - ANU Data Mining and Matching Group https://dmm.anu.edu.au/ https://web.archive.org/web/20160515215747/datamining.anu.edu.au/projects/linkage.html (Archive.org link)
 
