@@ -5,13 +5,22 @@ _Note: If you're looking for file deduplication software, you're in the wrong pl
 
 _Also note: Nor is this page is not about deduplication software used in backup and storage._
 
-Record linkage attempts to identify duplicate records in messy data. It is a thorny problem faced by a variety of disciplines dealing with real-world entities (most often people).
+Record linkage attempts to identify duplicate records in messy data. It is a thorny problem that crops up in a variety of scenarios that attempt to understand with real-world entities (most often people), such as census and statistical bureaus, medical organizations, the social sciences, and of course commercial business.
+
+For example, are these records the same person? Record Linkage is how you make the computer decide--quickly.
+
+| Name | Address | Phone |
+| --- | --- | --- |
+| Bill Smith | 123 N. Main St. | 555-1235 |
+| Smith, William K. | 123 Main | - |
+| W. K. Smith | North Main Street | 222-555-1234 |
+| Bill Schmidt | 1230 Main St. | 542-1235
 
 ## Background
 
 ### Documents
 - Wikipedia pages on [Record Linkage](https://en.wikipedia.org/wiki/Record_linkage) and [Data Deduplication](https://en.wikipedia.org/wiki/Data_deduplication)
-- Overview slideshttps://www.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf
+- Overview slides: https://www.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf
 - [Dedupe]'s explanation of how their software works: https://dedupe.io/developers/library/en/latest/How-it-works.html
 
 ### Talks
