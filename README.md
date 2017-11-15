@@ -21,7 +21,7 @@ For example, are these records the same person? Record Linkage is how you make t
 ### Documents
 - Wikipedia pages on [Record Linkage](https://en.wikipedia.org/wiki/Record_linkage) and [Data Deduplication](https://en.wikipedia.org/wiki/Data_deduplication)
 - Overview slides: https://www.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf
-- [Dedupe]'s explanation of how their software works: https://dedupe.io/developers/library/en/latest/How-it-works.html
+- [Dedupe](https://github.com/dedupeio/dedupe)'s explanation of how their software works: https://dedupe.io/developers/library/en/latest/How-it-works.html
 
 ### Talks
 - Peter Christen, Record Linkage lectures at ADRC-Scotland: [1](https://www.youtube.com/watch?v=DyGonV7A_EY) [2](https://www.youtube.com/watch?v=dcNTvYDdun0) [3](https://www.youtube.com/watch?v=HAKW5tHVCmw) [4](https://www.youtube.com/watch?v=4Iv5axrAWqQ) (2015)
