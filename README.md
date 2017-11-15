@@ -14,7 +14,7 @@ For example, are these records the same person? Record Linkage is how you make t
 | Bill Smith | 123 N. Main St. | 555-1235 |
 | Smith, William K. | 123 Main | - |
 | W. K. Smith | North Main Street | 222-555-1234 |
-| Bill Schmidt | 1230 Main St. | 542-1235
+| Bill Schmidt | 1230 Main St. | 542-1235 |
 
 ## Background
 
@@ -38,8 +38,10 @@ For example, are these records the same person? Record Linkage is how you make t
 
 ### Python
 - Dedupe: https://github.com/dedupeio/dedupe (2017, 1,413)
+- Python Record Linkage Toolkit: https://github.com/J535D165/recordlinkage (2017, 92)
 - RLTK: https://github.com/usc-isi-i2/rltk/ (2017, 13)
 - Febrl: https://sourceforge.net/projects/febrl/ (2013)
+- ebLink for Python: https://github.com/aldengolab/graphical-record-linkage (2016, 4) (Python wrapper for ebLink)
 
 ### Java
 - Duke: https://github.com/larsga/Duke (2016, 469)
@@ -49,7 +51,8 @@ For example, are these records the same person? Record Linkage is how you make t
 
 ### R
 - RecordLinkage: https://r-forge.r-project.org/projects/recordlinkage/ https://cran.r-project.org/web/packages/RecordLinkage/index.html
-- fastLink: https://github.com/kosukeimai/fastLink
+- fastLink: https://github.com/kosukeimai/fastLink (2017, 47)
+- ebLink: https://github.com/resteorts/ebLink (2016, 6)
 
 ### Other
 - OpenRecLink: http://reclink.sourceforge.net/ (2016)
