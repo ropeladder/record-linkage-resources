@@ -42,6 +42,7 @@ For example, are these records the same person? Record Linkage is how you make t
 - RLTK: https://github.com/usc-isi-i2/rltk/ (2017, 13)
 - Febrl: https://sourceforge.net/projects/febrl/ (2013)
 - ebLink for Python: https://github.com/aldengolab/graphical-record-linkage (2016, 4) (Python wrapper for ebLink)
+- anonlink: anonymous linkage using cryptographic linkage keys https://github.com/n1analytics/anonlink (2018, 3)
 
 ### Java
 - Duke: https://github.com/larsga/Duke (2016, 469)
