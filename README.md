@@ -24,6 +24,7 @@ For example, are these records the same person? Record Linkage is how you make t
 - [Dedupe](https://github.com/dedupeio/dedupe)'s explanation of how their software works: https://dedupe.io/developers/library/en/latest/How-it-works.html
 
 ### Talks
+- Flávio Juvenal, 1 + 1 = 1 or Record Deduplication with Python: https://www.youtube.com/watch?v=4O87RdBgRJ4 (2018)
 - Peter Christen, Record Linkage lectures at ADRC-Scotland: [1](https://www.youtube.com/watch?v=DyGonV7A_EY) [2](https://www.youtube.com/watch?v=dcNTvYDdun0) [3](https://www.youtube.com/watch?v=HAKW5tHVCmw) [4](https://www.youtube.com/watch?v=4Iv5axrAWqQ) (2015)
 - Mike Mull, The Art and Science of Data Matching: https://www.youtube.com/watch?v=Y-nYEOgq3YE (2015)
 - Rhydwyn Mcguire, Join for real life: https://www.youtube.com/watch?v=cEcVIjyHfiQ (2013)
