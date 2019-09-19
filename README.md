@@ -79,6 +79,8 @@ For example, are these records the same person? Record Linkage is how you make t
 - probablepeople: https://github.com/datamade/probablepeople (2017, 204)
 python nameparser library (but purely syntax based)
 - Name Parser: https://github.com/derek73/python-nameparser (2017, 232)
+- NameCleaver: https://github.com/sunlightlabs/name-cleaver/ (2019, 111)
+- nominally: https://github.com/vaneseltine/nominally (2019, 1)
 
 #### JavaScript
 - parse-full-name: https://github.com/dschnelldavis/parse-full-name (2017, 18)
