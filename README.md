@@ -56,6 +56,9 @@ For example, are these records the same person? Record Linkage is how you make t
 - fastLink: https://github.com/kosukeimai/fastLink (2017, 47)
 - ebLink: https://github.com/resteorts/ebLink (2016, 6)
 
+### Spark
+- splink: https://github.com/moj-analytical-services/splink (2020, 9)
+
 ### Other
 - OpenRecLink: http://reclink.sourceforge.net/ (2016)
   - C++ with GUI
@@ -93,6 +96,7 @@ python nameparser library (but purely syntax based)
 - http://people.cs.umass.edu/~mwick/MikeWeb/Publications_files/wick09entity.pdf ([via](https://dedupe.io/developers/library/en/latest/Bibliography.html))
 - http://homes.cs.washington.edu/~pedrod/papers/mrdm04.pdf ([via](https://dedupe.io/developers/library/en/latest/Bibliography.html))
 - https://www.researchgate.net/publication/318874102_Clink_-_A_Novel_Record_Linkage_Methodology_based_on_Graph_Interactions
+- [Using a Probabilistic Model to Assist Merging of Large-scale Administrative Records](http://imai.fas.harvard.edu/research/files/linkage.pdf) ([via](https://github.com/kosukeimai/fastLink))
 
 ## Organizations
 - US Census Burea - Center for Statistical Research and Methodolgy - Record Linkage: https://www.census.gov/srd/csrm/RecordLinkage.html
