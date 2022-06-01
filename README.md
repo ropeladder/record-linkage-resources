@@ -29,6 +29,7 @@ For example, are these records the same person? Record Linkage is how you make t
 - Mike Mull, The Art and Science of Data Matching: https://www.youtube.com/watch?v=Y-nYEOgq3YE (2015)
 - Rhydwyn Mcguire, Join for real life: https://www.youtube.com/watch?v=cEcVIjyHfiQ (2013)
 - Andrew Rowe, Big Data Deduplication and Data Matching using Python: https://www.youtube.com/watch?v=Z6mlvrYEYnk (2013)
+- Chris Oakman, Probabilistic Record Linkage of Hospital Patients: https://www.youtube.com/watch?v=rGKEOMUtJfE (2019)
 
 ### Books
 - Peter Christen, _Data Matching_: http://www.springer.com/us/book/9783642311635
