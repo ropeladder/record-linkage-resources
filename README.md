@@ -46,6 +46,7 @@ For example, are these records the same person? Record Linkage is how you make t
 - ebLink for Python: https://github.com/aldengolab/graphical-record-linkage (2016, 4) (Python wrapper for ebLink)
 - anonlink: anonymous linkage using cryptographic linkage keys https://github.com/n1analytics/anonlink (2018, 3)
 - Entity Embed: scalable Record Linkage using Approximate Nearest Neighbors: https://github.com/vintasoftware/entity-embed/ (2021, 16)
+- splink: https://github.com/moj-analytical-services/splink (2022, 221).  Can execute jobs against Python, Spark or AWS Athena backends
 
 ### Java
 - Duke: https://github.com/larsga/Duke (2016, 469)
@@ -57,9 +58,6 @@ For example, are these records the same person? Record Linkage is how you make t
 - RecordLinkage: https://r-forge.r-project.org/projects/recordlinkage/ https://cran.r-project.org/web/packages/RecordLinkage/index.html
 - fastLink: https://github.com/kosukeimai/fastLink (2017, 47)
 - ebLink: https://github.com/resteorts/ebLink (2016, 6)
-
-### Spark
-- splink: https://github.com/moj-analytical-services/splink (2020, 9)
 
 ### Other
 - OpenRecLink: http://reclink.sourceforge.net/ (2016)
