@@ -72,6 +72,7 @@ For example, are these records the same person? Record Linkage is how you make t
 - LinkageWiz: http://www.linkagewiz.net/
 - WinPure Clean and Match: http://www.winpure.com/cleanmatch.html
 - Reifier: http://nubetech.co/
+- Tilores: https://tilores.io/
 
 ### For SAS
 - (free but requires SAS) The Link King: http://www.the-link-king.com/
