@@ -40,6 +40,7 @@ For example, are these records the same person? Record Linkage is how you make t
 
 ### Python
 - Dedupe: https://github.com/dedupeio/dedupe (2017, 1,413)
+- pyJedAI: https://pyjedai.readthedocs.io (2024, 51)
 - Python Record Linkage Toolkit: https://github.com/J535D165/recordlinkage (2017, 92)
 - RLTK: https://github.com/usc-isi-i2/rltk/ (2017, 13)
 - Febrl: https://sourceforge.net/projects/febrl/ (2013)
@@ -49,7 +50,7 @@ For example, are these records the same person? Record Linkage is how you make t
 
 ### Java
 - Duke: https://github.com/larsga/Duke (2016, 469)
-- JedAI: https://github.com/scify/JedAIToolkit (2017, 12)
+- JedAI: https://github.com/scify/JedAIToolkit (2024, 197)
 - LSHDB: https://github.com/dimkar121/LSHDB (2017, 9)
 - FRIL: http://fril.sourceforge.net/ (2011) (Windows binary available)
 
